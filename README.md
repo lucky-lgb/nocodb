@@ -4,7 +4,7 @@
 [alembic]
 script_location = alembic
 prepend_sys_path = src
-sqlalchemy.url = postgresql://postgres:postgres@localhost:5432/pdf_agent
+sqlalchemy.url = postgresql://postgres:postgres@localhost:5432/cc
 
 [loggers]
 keys = root,sqlalchemy,alembic
