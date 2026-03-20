@@ -15,19 +15,7 @@ keys = console
 [formatters]
 keys = generic
 
-[logger_root]
-level = WARN
-handlers = console
 
-[logger_sqlalchemy]
-level = WARN
-handlers =
-qualname = sqlalchemy.engine
-
-[logger_alembic]
-level = INFO
-handlers =
-qualname = alembic
 
 [handler_console]
 class = StreamHandler
