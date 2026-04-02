@@ -9,6 +9,10 @@ sqlalchemy.url = postgresql://postgres:postgres@localhost:5432/cc
 [loggers]
 keys = root,sqlalchemy,alembic
 
+keys = root,sqlalchemy,alembic
+
+keys = root,sqlalchemy,alembic
+
 [handlers]
 keys = console
 
