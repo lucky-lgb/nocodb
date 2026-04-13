@@ -15,10 +15,7 @@ keys = root,sqlalchemy,alembic
 
 [handlers]
 keys = console
-
-[formatters]
-keys = generic
-
+dasdadasdas
 
 
 [handler_console]
